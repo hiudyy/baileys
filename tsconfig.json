@@ -16,6 +16,5 @@
     "forceConsistentCasingInFileNames": true,
     "declaration": true,
     "lib": ["es2020", "esnext.array", "DOM"]
-  },
-  "include": ["./lib/**/*.ts"]
+  }
 }
